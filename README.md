@@ -1,6 +1,7 @@
 # TEAM AGEOSTE 🐊
 #### 2021.01.11 ~ 2021.01.22
 안녕하세요, [lacoste](https://www.lacoste.com/kr/) 사이트의 클론 코딩 프로젝트를 진행하게 된 Team AGEOSTE(아거스테🐊) 입니다. 녹빛의 악어 모양 로고로 유명한 Lacoste 는 1933년 테니스 선수 르네 라코스트에 의해 설립된 프랑스의 패션 브랜드입니다. 클래식하면서도 캐쥬얼한 이미지의 스포츠 웨어들을 판매하며, 해당 사이트에서는 라코스테의 제품들을 컬러별, 테마별로 분류하여 게시해두고 있습니다. 약 2주간의 기간동안 초기 세팅부터 디자인, 회원가입/로그인/장바구니 를 포함한 기본적인 기능은 UI 까지 연결하여 전부 구현하였으나 검색/필터/리뷰 등의 기능은 시간 상 기능만 구현해두고 연결로는 이어지지 못했습니다.
+
 ## Preview
 [![team ageoste](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6fb92acc-8aed-4aff-a694-d4ee043e8028/Group_95_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210124T084056Z&X-Amz-Expires=86400&X-Amz-Signature=cbc165403752a589df75b54c1cdbf7d5c5f3625e30a6acf2b46bd009bf4b4e66&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Group_95_%281%29.png%22)](https://youtu.be/AaLQSa29Ias)
 ##### 이미지를 클릭하면 영상으로 이동됩니다.
@@ -15,9 +16,8 @@
 - Python
 - Django
 - MySQL
-- JWT, Bcrpyt
-- Git & GitHub
-- AWS EC2, RDS
+- AWS EC2, RDS, S3
+- Docker
 
 ## Progress ⛓
 - <a href="https://trello.com/b/IIL6vdmM/%F0%9D%92%9C%F0%9D%91%94%F0%9D%91%92%F0%9D%91%9C%F0%9D%93%88%F0%9D%93%89%F0%9D%91%92"> TEAM Trello </a> <br>
