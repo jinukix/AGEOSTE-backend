@@ -10,7 +10,7 @@
 ### Front <a href="https://github.com/wecode-bootcamp-korea/AGEOSTE-frontend"> git repo </a> <br>
 유재현 <a href="https://github.com/JaehyunYoo"> git repo </a> // 박영호 <a href="https://github.com/youngho052"> git repo </a> <br>
 ### Back <a href="https://github.com/wecode-bootcamp-korea/AGEOSTE-backend"> git repo</a> <br>
-장진욱 <a href="https://github.com/jinukix"> git repo </a> <a href="https://velog.io/@jinukix/1차-프로젝트-후기">review</a> <br>
+장진욱 <a href="https://github.com/jinukix"> git repo </a> <a href="https://velog.io/@jinukix/2차-프로젝트-후기">review</a> <br>
 최수아 <a href="https://github.com/sue517"> git repo</a> <a href="https://velog.io/@sue517/1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0"> review </a> <br>
 
 ## Back Technologies 🛠
