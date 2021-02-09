@@ -3,7 +3,7 @@
 안녕하세요, [lacoste](https://www.lacoste.com/kr/) 사이트의 클론 코딩 프로젝트를 진행하게 된 Team AGEOSTE(아거스테🐊) 입니다. 녹빛의 악어 모양 로고로 유명한 Lacoste 는 1933년 테니스 선수 르네 라코스트에 의해 설립된 프랑스의 패션 브랜드입니다. 클래식하면서도 캐쥬얼한 이미지의 스포츠 웨어들을 판매하며, 해당 사이트에서는 라코스테의 제품들을 컬러별, 테마별로 분류하여 게시해두고 있습니다. 약 2주간의 기간동안 초기 세팅부터 디자인, 회원가입/로그인/장바구니 를 포함한 기본적인 기능은 UI 까지 연결하여 전부 구현하였으나 검색/필터/리뷰 등의 기능은 시간 상 기능만 구현해두고 연결로는 이어지지 못했습니다.
 
 ## Preview
-[![team ageoste](https://media.vlpt.us/images/jinukix/post/16827a62-c61a-4777-8639-7d5296916097/starbugs.gif](https://www.youtube.com/watch?v=LNovijmpFKU)
+[![team ageoste](https://media.vlpt.us/images/jinukix/post/16827a62-c61a-4777-8639-7d5296916097/starbugs.gif)](https://www.youtube.com/watch?v=LNovijmpFKU)
 ##### 이미지를 클릭하면 영상으로 이동됩니다.
 
 ## Member 🕺🏻 <br>
